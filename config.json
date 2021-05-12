@@ -1,0 +1,52 @@
+{
+    "token": "ODQyMTUzNTkxNzkxMjg4MzYx.YJxKpg.fN5S8MuV2Ttnwm19-um-hhSqNKs",
+    "prefix": "!",
+    "bot_name": "Discord Maker",
+    "main_color": "0x2c95e6",
+    "bot_owners": ["ID 1","ID 2", "ID 3" ],
+
+    "anti_bad_word_toggle": true,
+    "anti_bad_words": [  "kurwa",  "pizda",  "szmata",  "cipa", "scam", "oszustwo", "penis","CAN ADD MORE BY REPEATING PROCESS"],
+
+    "counter": false,
+    "counter_channel": "802635210919116881",
+    "counter_number_reach": 5,
+    
+    "blacklisted": ["ID 1","ID 2","ID 3"],
+    "whitelisted": ["ID 1","ID 2","ID 3"],
+    
+    "ignore_channel_toggle": true,
+    "ignore_channel_id": ["798174351865806918","Kanał ID 2"],
+    
+    "anti_link_toggle": true,
+    "mute_role": "835309714630901790",
+
+    "command_cooldown_toggle": true,
+    "command_cooldown_time": "3",
+    
+    "xp_system_toggle": true,
+    "xp_system_rate": 10,
+    "xp_system_levelrate": 300,
+    
+    "suggest_system_toggle": true,
+    "suggest_system_channel": "",
+    
+    "report_system_toggle": true,
+    "report_system_channel": "RAPORT ID KANAŁU",
+    
+    "mod_logs_toggle": false,
+    "mod_logs_channel": "ID KANAŁU MOD LOGS",
+    "mod_logs_color": "0xbd1751",
+    
+    "anti_selfbot_toggle": true,
+    "anti_self_bot_message": "Niedozwolone są autoboty!",
+    
+    "status_type": "STREAMING",
+    "status_url": "https://www.twitch.tv/#",
+    "bot_status": ["Gildia BUNT"],
+    "status_change_interval": "2",
+    
+    "welcome_message_enabled": true,
+    "welcome_message_server": "835466732175884288",
+    "welcome_message_channel": "835476151882743808"
+}
